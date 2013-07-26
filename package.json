@@ -1,0 +1,20 @@
+{
+  "name": "node-patrikring",
+  "version": "0.0.1",
+  "description": "My personal web site",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ptte/patrikring.git"
+  },
+  "author": "Patrik Ring",
+  "license": "NONE",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "routes": "~0.2.0",
+    "connect": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
